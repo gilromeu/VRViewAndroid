@@ -1,2 +1,2 @@
 # VRViewAndroid
-incorporação de imagens VR de 360º no Android
+incorporação de imagens VR 360º no Android
